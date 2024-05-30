@@ -24,9 +24,9 @@ const About = () => {
        </div> 
     
       <div className="about-content">
-        <h2>Sahil Avindra Borkar (SAB)</h2>
+        <h2>Atharva Prashnat Hule</h2>
         <p>I have developed a job finder website using React.js and the JSearch API from RapidAPI. The website allows users to search for job opportunities based on their skills and desired location. By integrating the JSearch API, we fetch real-time job data from platforms like LinkedIn, Indeed, and Glassdoor, ensuring users have access to the latest job listings.</p>
-        <a target='_blank' href='https://www.linkedin.com/in/borkar-sahil/'><BsLinkedin className='LinkedIn-Icon' /></a>
+        <a target='_blank' href='https://www.linkedin.com/in/atharva-hule-58600a229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'><BsLinkedin className='LinkedIn-Icon' /></a>
       </div>
     </div>
 
